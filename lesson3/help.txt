@@ -1,0 +1,5 @@
+1)Belajar HTML - Select, Radio Button Dan Checkbox
+2)Belajar html dasar, cara membuat listbox, combobox, selectbox, checkbox, radio button, dan datalist
+
+1)Изучение HTML - Выберите, Radio Button и Checkbox
+2)Освойте HTML, как создать ListBox, COMBOBOX, переключатель, флажок, кнопки радио, и повторитель
